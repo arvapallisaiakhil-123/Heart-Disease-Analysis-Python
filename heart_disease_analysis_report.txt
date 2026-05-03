@@ -1,0 +1,34 @@
+HEART DISEASE CLEVELAND - ANALYSIS REPORT
+==================================================
+
+Total Patients: 303
+Disease Cases:  139
+No Disease:     164
+
+AGE GROUP DISTRIBUTION
+------------------------------
+Young: 15 patients
+Middle: 209 patients
+Senior: 79 patients
+
+AVERAGE STATS BY AGE GROUP
+------------------------------
+Young -> Chol: 218.7 | RiskScore: 135.8
+Middle -> Chol: 243.6 | RiskScore: 152.0
+Senior -> Chol: 260.2 | RiskScore: 164.7
+
+DISEASE RATE BY AGE GROUP
+------------------------------
+Young: 26.7%
+Middle: 43.5%
+Senior: 55.7%
+
+OVERALL STATISTICS
+------------------------------
+Avg Age:         54.4
+Avg Cholesterol: 246.7
+Avg Heart Rate:  149.6
+Avg RiskScore:   154.5
+
+==================================================
+END OF REPORT

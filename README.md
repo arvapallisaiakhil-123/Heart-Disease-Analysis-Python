@@ -1,2 +1,22 @@
-# Heart-Disease-Analysis-Python
-Python-based heart disease analysis project using Cleveland dataset. Covers data cleaning, risk scoring, age group analysis, statistics, and charts to understand factors affecting heart disease.
+# ❤️ Heart Disease Analysis
+
+This project analyzes heart disease data using Python.
+
+## Features
+
+* Data cleaning
+* Risk score calculation
+* Age group analysis
+* Data visualization
+
+## Technologies
+
+* Python
+* Pandas
+* Matplotlib
+
+## Run
+
+python src.py
+
+Author: A. Sai Akhil
